@@ -193,3 +193,64 @@ nav a:hover {
 color:#d4af37;
 
 }
+.page-header {
+
+padding-top:180px;
+padding-bottom:80px;
+text-align:center;
+
+background:#080808;
+
+}
+
+
+.page-header h1 {
+
+font-size:60px;
+
+}
+
+
+
+.service-box {
+
+background:#151515;
+padding:50px;
+margin-bottom:40px;
+
+border:1px solid #333;
+
+}
+
+
+.service-box h2 {
+
+font-size:45px;
+
+}
+
+
+.service-box li {
+
+margin:10px 0;
+color:#ccc;
+
+}
+
+
+.service-box p {
+
+font-size:19px;
+color:#ccc;
+
+}
+
+
+
+.price {
+
+margin-top:30px;
+font-size:35px;
+color:#d4af37;
+
+}
