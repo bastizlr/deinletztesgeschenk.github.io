@@ -321,3 +321,28 @@ footer {
 
 
 }
+.call {
+
+text-align:center;
+
+}
+
+
+.call .text {
+
+margin:auto;
+
+}
+
+
+
+section:nth-child(even) {
+
+}
+
+
+.hero .button {
+
+margin-top:55px;
+
+}
