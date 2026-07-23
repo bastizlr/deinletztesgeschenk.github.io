@@ -35,7 +35,7 @@ h1, h2, h3 {
         rgba(0,0,0,0.75),
         rgba(0,0,0,0.92)
     ),
-    url("hero.jpg");
+    url("hero.jpg.png");
 
     background-size: cover;
     background-position: center;
