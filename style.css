@@ -7,8 +7,12 @@
 body {
     background: #0b0b0b;
     color: #eeeeee;
-    font-family: "Georgia", serif;
-    line-height: 1.7;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+h1, h2, h3 {
+    font-family: "Cormorant Garamond", serif;
 }
 
 .container {
